@@ -1,4 +1,4 @@
-# python_test_coverage sends to sonarqube
+# python_test_coverage  coverage-report sends to sonarqube
 # pytest tool Installation
 ```
 pip3 install pytest
