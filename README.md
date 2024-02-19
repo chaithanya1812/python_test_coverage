@@ -38,10 +38,13 @@ coverage report
 ![image](https://github.com/chaithanya1812/python_test_coverage/assets/111736742/c1d40def-4626-4f01-baad-aa0a58e32e13)
 
 # converting code-coverage report to xml,so that sonarqube will detect of code-coverage percentage. 
-# It will generate coverage.xml file in current directory.
+
 ```
 coverage xml
 ```
+## It will generate coverage.xml file in current directory.
+
+
 # Open the file [ sonar-project.properties ] & modify the below content.
 ```
 sonar.host.url=http://54.157.52.52:9000/  ----> Replace with your url
