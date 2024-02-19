@@ -50,7 +50,7 @@ sonar.login=admin                        ---> Replace the login name
 sonar.password=12345                     ---> Replace the login password 
 ```
 
-# Finally run sonar-scanner coomad
+# Finally run sonar-scanner command
 ```
 sonar-scanner
 ```
