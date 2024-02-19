@@ -41,7 +41,7 @@ coverage report
 ```
 coverage xml
 ```
-# creating a file by name [sonar-project.properties] Add the below content
+# Open the file [ sonar-project.properties ] & modify the below content.
 ```
 sonar.host.url=http://54.157.52.52:9000/  ----> Replace with your url
 sonar.projectKey=my-project
