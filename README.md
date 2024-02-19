@@ -37,7 +37,7 @@ coverage report
 ```
 ![image](https://github.com/chaithanya1812/python_test_coverage/assets/111736742/c1d40def-4626-4f01-baad-aa0a58e32e13)
 
-# converting code-coverage report to xml,so that sonarqube will detect of code-coverage percentage
+# converting code-coverage report to xml,so that sonarqube will detect of code-coverage percentage, It will generate coverage.xml file in current directory
 ```
 coverage xml
 ```
